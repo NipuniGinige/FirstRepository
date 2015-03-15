@@ -12,5 +12,6 @@ package FirstPackage;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello Nipuni");
+        System.out.println("Hello Thisuri");
     }
 }
